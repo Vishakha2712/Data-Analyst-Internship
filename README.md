@@ -199,8 +199,8 @@ Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 ### Solution: Wavecon Telecom Presentation(CodeBasics)
 Tool: MS PowerPoint
 
-## WEEK 3 & 4
-### Email:
+## WEEK 3 
+### Email: 1
 Hemanand,
 
 I hope this email finds you well. I’m summarizing the requirements for the pilot project as discussed in the last call.
@@ -223,28 +223,44 @@ Best regards,
 Mathew
 Business Analyst | Shield Insurance
 
-### Solution:
-Tool: 
+Hello Sir, I hope you’re doing well.
 
-### 📩 Task Overview
-Built an interactive dashboard to analyze telecom performance after 5G launch.
+As discussed, I’m sharing the mockup presentation for the insurance dashboard pilot project. The mockup is designed to visually represent the key KPIs, trends, and comparisons outlined in the requirements, including overall business KPIs and sales mode performance analysis.
 
-### 🔧 Tasks Performed
-- Created Power BI dashboard
-- Analyzed revenue and plan performance
-- Identified post-5G trends
-- Prepared final presentation
+The layout focuses on clarity and structure, with placeholders for KPIs, trend charts, and donut-style visuals to clearly communicate insights and dashboard flow. This mockup is intended to align with the project requirements and serve as a reference for the final dashboard development.
 
-### 🛠 Tools Used
-- Power BI
-- Excel
+Please let me know your thoughts and if any changes or additions are needed. I’d be happy to refine the mockup based on your feedback.
 
-### 📁 Solution Files
-- `Wavecon_5G.pbix`
-- `Final_Presentation.pdf`
+Best regards, Vishakha
 
----
+Great work! I want to express my gratitude for your hard work in both writing the project update and creating the mockup.
 
-## 📌 Note
-This internship project was completed for learning purposes
-as part of a structured data analytics internship.
+### Solution: MockUp
+Tool: MS-PowerPoint
+Vishakha Kokate!
+I hope you're having a great day. I appreciate the mock-up that you created for us. It was clear that you put a lot of effort and creativity into the design, and we were all very impressed with the end result.
+Additionally, I wanted to thank you for the project update that you sent us. It was great to see the progress that has been made, and I appreciate the clear and concise manner in which you presented the information.
+That being said, I did make a few changes to the mock-up to better align with our specific needs. I have attached the ‘mock-up changes’ to this email so that you can take a look and see the changes that were made.
+I'm excited to see how this project progresses and the end tool that you create based on the feedback.
+
+Best regards,
+Mathew
+Business Analyst
+Shield Insurance
+
+### Week: 4
+### Email: 1
+Dashboard Creation Task
+Vishakha Vishwas Kokate,
+
+I saw the response from Mathew and you did a good job there. As a next step, you will be creating a dashboard, and I want to give you some quick tips.
+
+Ensure that the dashboard you are creating meets Mathew’s requirements.
+Create a DAX metrics list so that you have clarity before building the dashboard.
+Create documentation for Mathew so that they won’t have issues in understanding the dashboard.
+I have attached a sample DAX metrics list and sample documentation from previous projects that should help guide you in the right direction. Study these resources and use them as a reference throughout your work.
+
+In case you need help, feel free to contact your seniors.
+
+### Solution: [Shield Insurance Dashboard.pbix](Shield Insurance Dashboard)
+Tool: Power BI
