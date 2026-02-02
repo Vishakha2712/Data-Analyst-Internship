@@ -142,8 +142,30 @@ Best regards,
 Hem
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 
-### Solution: []
+### Solution: gdb080. solution - SQL Query Debugging.sql
+Tool: MySQL
 
+### Email: 3
+Report Automation
+I have a quick ad-hoc task for you.
+
+One of our clients in the Network services domain is currently creating a weekly report manually. This process can be automated, and we can help them save time.
+
+I've provided you with two Excel sheets - "network_data.csv" and "activity_data.csv", containing data related to our client's network operations. Your task is to use Power Query to manipulate and transform the data from these files and create a new table that meets the specified format.
+
+To achieve the desired format, you'll need to use a variety of Power Query techniques, such as pivoting, transforming, merging, and manipulating headers.
+
+Input Data
+<img width="1042" height="693" alt="image" src="https://github.com/user-attachments/assets/0c944074-3cd6-4c25-88be-77cc80e367bb" />
+Output Data
+<img width="1039" height="476" alt="image" src="https://github.com/user-attachments/assets/d9b6501b-720f-45f5-bce9-fbc1b58b0b98" />
+
+Please complete this task as soon as possible. If you need any assistance, feel free to reach out to your seniors.
+
+Best regards,
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+
+### Solution: 
 
 ## WEEK 4: Business Dashboard & Insights
 
