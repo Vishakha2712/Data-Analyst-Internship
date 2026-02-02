@@ -51,8 +51,8 @@ Hem
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 
 ### Solution: 
-File Name: 
-Tool: attendance_data_soln
+File Name: [attendance_data_soln.pbix] (attendance_data_soln.pbix)
+Tool: Power BI
 
 ## WEEK 2: Data Normalization
 
