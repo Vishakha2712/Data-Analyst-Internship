@@ -68,7 +68,7 @@ Output Data:
 <img width="918" height="675" alt="Screenshot 2026-02-01 224038" src="https://github.com/user-attachments/assets/bbb0d6ea-fd1c-441c-b385-5161a3b389f6" />
 
 ### Solution: [fact_order_lines_soln](fact_order_lines_soln)
-Tool: MS Excel
+Tool: MS-Excel
 
 ### Email: 3
 Scrum Training
@@ -165,7 +165,8 @@ Please complete this task as soon as possible. If you need any assistance, feel 
 Best regards,
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 
-### Solution: 
+### Solution: [Network_Data_Solution](Network_Data_Solution)
+Tool: MS-Excel
 
 ## WEEK 4: Business Dashboard & Insights
 
