@@ -262,5 +262,5 @@ I have attached a sample DAX metrics list and sample documentation from previous
 
 In case you need help, feel free to contact your seniors.
 
-### Solution: [Shield Insurance Dashboard.pbix](Shield Insurance Dashboard)
+### Solution: Shield Insurance Dashboard.pbix
 Tool: Power BI
