@@ -70,6 +70,20 @@ Output Data:
 ### Solution: [fact_order_lines_soln](fact_order_lines_soln)
 Tool: MS Excel
 
+### Email: 3
+Scrum Training
+I’m forwarding the email from HR, in case it didn’t reach you.
+
+As part of your internship, we will be covering the SCRUM methodology in software development. SCRUM is a widely-used agile methodology that helps teams collaborate effectively to deliver high-quality software products.
+
+To help you gain a thorough understanding of SCRUM, I am pleased to introduce you to the SCRUM Training Series, available at https://scrumtrainingseries.com/. This is a comprehensive online training program that covers all aspects of SCRUM, from its basics to advanced concepts.
+
+It is mandatory for you to complete the SCRUM Training Series as having a good understanding of it will make you a more valuable employee in the industry.
+
+Good luck with your training!
+
+Best regards,
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 
 ## WEEK 2: 
 ### Email: 1
@@ -111,7 +125,25 @@ Best regards,
 Hem
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 
-### Solution
+### Solution: [benchmark_data_soln.pbix](benchmark_data_soln.pbix)
+Tool: Power BI
+
+### Email: 2
+SQL Query Debugging
+I’m struggling with something and need your help. We have some SQL queries created by our previous interns, and it seems they were not debugged. Can you debug them?
+
+I've provided you with the necessary files to get started. Please download the 'gdb080.sql' file and load it into your MySQL Workbench. You can then open the 'sql_queries.docx' file to view the list of queries that you need to debug. Each query has some errors that need to be identified and fixed. Please ensure that you test each query thoroughly after fixing the errors.
+
+This task is urgent – please complete it as soon as possible.
+
+If you have any follow-up questions about the task, feel free to ask your seniors here: Discord Link.
+
+Best regards,
+Hem
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+
+### Solution: []
+
 
 ## WEEK 4: Business Dashboard & Insights
 
