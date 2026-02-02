@@ -168,6 +168,37 @@ Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 ### Solution: [Network_Data_Solution](Network_Data_Solution)
 Tool: MS-Excel
 
+### Email: 4
+Vishakha Vishwas Kokate,
+
+I’m sending the details to you as discussed in the call.
+
+You need to create a presentation from the dashboard for our telecom client 'wavecon'.
+
+Preview of the dashboard:
+<img width="993" height="682" alt="image" src="https://github.com/user-attachments/assets/2f5e4e28-77e0-4dc6-95b9-d0b81d3d4670" />
+Dashboard Preview
+
+Your task is to analyze the dashboard and provide insights on a ppt that addresses the following questions:
+
+What is the impact of the 5G launch on our revenue?
+Which KPI is underperforming after the 5G launch?
+After the 5G launch, which plans are performing well in terms of revenue? Which plans are not performing well?
+Is there any plan affected largely by the 5G launch? Should we continue or discontinue that plan?
+Is there any plan that is discontinued after the 5G launch? What is the reason for it?
+These are just initial questions to help you get started, and you are free to come up with new insights based on your analysis. You can also play around with the dashboard to get better insights.
+
+Of course, you can check with your seniors as usual.
+
+Looking forward to your best!
+
+Best regards,
+Hem
+Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
+
+
+
+
 ## WEEK 4: Business Dashboard & Insights
 
 ### 📩 Task Overview
