@@ -67,6 +67,8 @@ Output Data:
 
 <img width="918" height="675" alt="Screenshot 2026-02-01 224038" src="https://github.com/user-attachments/assets/bbb0d6ea-fd1c-441c-b385-5161a3b389f6" />
 
+### Solution: [fact_order_lines_soln](fact_order_lines_soln)
+Tool: MS Excel
 
 
 ## WEEK 2: 
@@ -109,8 +111,7 @@ Best regards,
 Hem
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 
-### Solution: [fact_order_lines_soln](fact_order_lines_soln)
-Tool: MS Excel
+### Solution
 
 ## WEEK 4: Business Dashboard & Insights
 
